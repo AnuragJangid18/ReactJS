@@ -1,0 +1,28 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "1st post",
+        "datetime": "November 16, 2024 11:47:39 PM",
+        "body": "Excited"
+      },
+      {
+        "id": 2,
+        "title": "Second post",
+        "datetime": "November 17, 2024 11:47:48 PM",
+        "body": "Exausted"
+      },
+      {
+        "id": 3,
+        "title": "Number Three",
+        "datetime": "November 19, 2024 11:48:01 PM",
+        "body": "Third post..."
+      },
+      {
+        "id": 4,
+        "title": "Testing a 4th post",
+        "datetime": "November 22, 2024 11:46:27 PM",
+        "body": "Some more testing paragraphs!"
+      }
+    ]
+  }
